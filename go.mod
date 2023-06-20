@@ -1,4 +1,4 @@
-module github.com/MACMREPO/libenv
+module github.com/libenv
 
 go 1.20
 
