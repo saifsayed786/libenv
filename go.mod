@@ -1,4 +1,4 @@
-module github.com/libenv
+module github.com/saifsayed786/libenv
 
 go 1.20
 
